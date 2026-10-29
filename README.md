@@ -1,4 +1,4 @@
-# <img src="https://i.servimg.com/u/f34/20/32/08/60/eg10.png" width="32" height="32"> USB Monitor v1.3
+# <img src="https://i.servimg.com/u/f34/20/32/08/60/eg10.png" width="32" height="32"> USB Monitor v1.0.0
 
 > ## 🛡️ Detección, Bloqueo y Registro de Dispositivos USB No Autorizados para Windows 10 & 11
 >
