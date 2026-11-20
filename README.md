@@ -2,7 +2,7 @@
 
 > ## 🛡️ Detección, Bloqueo y Registro de Dispositivos USB No Autorizados para Windows 10 & 11
 >
-> USBMonitor v1.3 es la suite profesional de seguridad y control de puertos USB para Windows. Integra funciones avanzadas de detección en tiempo real de unidades extraíbles, bloqueo automático con expulsión física forzada, gestión de lista blanca (*Whitelist*) con control de límites para edición Free/Pro, protección de acceso mediante clave maestra con cifrado SHA-256, claves de recuperación únicas y un completo panel de control con estadísticas y gráficos interactivos (*Sparklines*).
+> USBMonitor v1.0.0 es la suite profesional de seguridad y control de puertos USB para Windows. Integra funciones avanzadas de detección en tiempo real de unidades extraíbles, bloqueo automático con expulsión física forzada, gestión de lista blanca (*Whitelist*) con control de límites para edición Free/Pro, protección de acceso mediante clave maestra con cifrado SHA-256, claves de recuperación únicas y un completo panel de control con estadísticas y gráficos interactivos (*Sparklines*).
 >
 > Diseñado para operar 100% de forma local en segundo plano mediante la bandeja del sistema (*Tray Icon*), garantiza la privacidad total de tus datos corporativos y personales sin depender de la nube, ofreciendo almacenamiento seguro en el perfil de usuario con atributos ocultos y de sistema.
 
@@ -17,7 +17,7 @@
 
 # ✨ Funciones Principales de USBMonitor
 
-USBMonitor v1.3 evoluciona la seguridad perimetral de los equipos de escritorio mediante un motor residente en PyQt6 altamente optimizado:
+USBMonitor v1.0.0 evoluciona la seguridad perimetral de los equipos de escritorio mediante un motor residente en PyQt6 altamente optimizado:
 
 ### 🔍 Detección y Monitoreo en Tiempo Real (`MonitorThread`)
 
@@ -53,7 +53,7 @@ USBMonitor v1.3 evoluciona la seguridad perimetral de los equipos de escritorio 
 <tr>
 <th>Funciones y Características</th>
 <th>Gratis (Free Edition)</th>
-<th>USBMonitor Pro (v1.3)</th>
+<th>USBMonitor Pro (v1.0.0)</th>
 </tr>
 
 <tr>
@@ -230,7 +230,7 @@ Si posees consultas técnicas o deseas adquirir una licencia Pro para desbloquea
 
 <div align="center">
 
-## ❤️ USBMonitor v1.3 © 2026 EscudoDigitalSV
+## ❤️ USBMonitor v1.0.0 © 2026 EscudoDigitalSV
 
 Detección, bloqueo y registro profesional de dispositivos USB para Windows.
 
