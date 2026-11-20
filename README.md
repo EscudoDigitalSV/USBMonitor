@@ -10,7 +10,7 @@
 
 <div align="center">
   <h2>📸 Interfaz Principal</h2>
-  <img src="https://i.servimg.com/u/f34/20/32/08/60/egafe10.png" alt="USBMonitor Interface" width="550">
+  <img src="https://i.servimg.com/u/f34/20/32/08/60/umfree10.png" alt="USBMonitor Interface" width="550">
 </div>
 
 ---
